@@ -3,7 +3,8 @@ New Masked Language Modeling for Auxiliary tasks
 
 ## Overview
 
-`L3Masking` is a new mlm as auxiliary task for effective multi-task fine-tuning. This project is based on the following paper:
+`L3Masking` is a new mlm as auxiliary task for effective multi-task fine-tuning. 
+This project is based on the following paper:
 
 **Paper Title**: [L3Masking: Multi-task Fine-tuning for Language Models by Leveraging Lessons Learned from Vanilla Models](https://openreview.net/forum?id=XBlgA9S6sN#discussion)  
 **Presented at**: [Customizable NLP Workshop @ EMNLP 2024](https://customnlp4u-24.github.io/)  
@@ -40,6 +41,8 @@ New Masked Language Modeling for Auxiliary tasks
 
 ## LICENSE
 This software includes modifications made by usk-Kimura. 
+
 Original repository: [TARTAN](https://github.com/ldery/TARTAN/tree/main)
+
 Modification date: 12/10/2024
 
