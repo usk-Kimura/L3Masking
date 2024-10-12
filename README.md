@@ -21,7 +21,7 @@ New Masked Language Modeling for Auxiliary tasks
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/username/repo.git
+    git clone git@github.com:usk-Kimura/L3Masking.git
     ```
 
 2. Install the required dependencies:
