@@ -153,6 +153,7 @@ nvidia-cuda-nvrtc-cu11==11.8.89
 nvidia-cuda-nvrtc-cu12==12.1.105
 nvidia-cuda-runtime-cu11==11.8.89
 nvidia-cuda-runtime-cu12==12.1.105
+nvidia-cudnn-cu11==9.1.0.70
 nvidia-cudnn-cu12==8.9.2.26
 nvidia-cufft-cu11==10.9.0.58
 nvidia-cufft-cu12==11.0.2.54
@@ -257,15 +258,15 @@ tinycss2==1.3.0
 tokenizers==0.12.1
 tomli @ file:///opt/conda/conda-bld/tomli_1657175507142/work
 toolz @ file:///croot/toolz_1667464077321/work
-torch==1.12.1
-torchaudio==2.1.1+cu118
+torch==2.4.1+cu118
+torchaudio==2.4.1+cu118
 torchelastic==0.2.2
-torchvision==0.13.1
+torchvision==0.19.1+cu118
 tornado==6.4.1
 tqdm==4.66.4
 traitlets @ file:///croot/traitlets_1671143879854/work
 transformers==4.20.1
-triton==2.1.0
+triton==3.0.0
 truststore @ file:///croot/truststore_1695244293384/work
 typer==0.4.2
 types-dataclasses==0.6.6

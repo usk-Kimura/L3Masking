@@ -10,13 +10,12 @@ New Masked Language Modeling for Auxiliary tasks
 **Workshop Date**: November 16, 2024  
 **Location**: [Hyatt Regency Miami Hotel, Miami, Florida](https://www.hyatt.com/hyatt-regency/en-US/miarm-hyatt-regency-miami?src=adm_sem_crp_chico_crp_ppc_NAM-UnitedStates-FL-Miami-HR-MIARM_google_Evergreen2022_e_hyatt%20regency%20miami&gad_source=1&gclid=CjwKCAjwmaO4BhAhEiwA5p4YL10TTpJ3DTZo0a_XzENdBLPyE-4bbi81RFDWYGmgaK0MH8RcPaV4nxoCyNYQAvD_BwE)
 
-
 ## Features
 
 - Task and domain adaptation-specific masking
 - Masked Token selection based on pseudo-likelihood.
 
-## Installation
+## Installation and Usage
 
 1. Clone the repository:
 
@@ -27,19 +26,20 @@ New Masked Language Modeling for Auxiliary tasks
 2. Install the required dependencies:
 
     ```bash
-    cd repo
+    cd L3Masking 
     pip install -r requirements.txt
     ```
+
+   CUDA 11.8, Ubuntu 20.04.4 LTS 
 
 3. Run the application:
 
     ```bash
-    python app.py
+    bash run_meta_multiple.sh
     ```
 
-## Usage
+## LICENSE
+This software includes modifications made by usk-Kimura. 
+Original repository: [TARTAN](https://github.com/ldery/TARTAN/tree/main)
+Modification date: 12/10/2024
 
-Here's a basic example of how to use the project:
-
-```bash
-python app.py --input data.txt
