@@ -6,7 +6,7 @@ New Masked Language Modeling for Auxiliary tasks
 `L3Masking` is a [tool/library/application] designed to [brief description of the purpose and functionality]. This project is based on the following paper:
 
 **Paper Title**: [L3Masking: Multi-task Fine-tuning for Language Models](https://openreview.net/forum?id=example)  
-**Presented at**: [Customizable NLP Workshop @ EMNLP 2024]([https://customnlp4u.github.io/](https://customnlp4u-24.github.io/))  
+**Presented at**: [Customizable NLP Workshop @ EMNLP 2024](https://customnlp4u-24.github.io/)
 **Workshop Date**: November 16, 2024  
 **Location**: Hyatt Regency Miami Hotel, Miami, Florida
 
