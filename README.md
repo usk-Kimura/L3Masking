@@ -1,11 +1,9 @@
 # L3Masking
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
-[![Build Status](https://travis-ci.org/username/repo.svg?branch=master)](https://travis-ci.org/username/repo)  
-[![GitHub stars](https://img.shields.io/github/stars/username/repo.svg)](https://github.com/username/repo/stargazers)
+New Masked Language Modeling for Auxiliary tasks
 
 ## Overview
 
-`Project Name` is a [tool/library/application] designed to [brief description of the purpose and functionality]. This project is based on the following paper:
+`L3Masking` is a [tool/library/application] designed to [brief description of the purpose and functionality]. This project is based on the following paper:
 
 **Paper Title**: [L3Masking: Multi-task Fine-tuning for Language Models](https://openreview.net/forum?id=example)  
 **Presented at**: [Customizable NLP Workshop @ EMNLP 2024](https://customnlp4u.github.io/)  
