@@ -16,6 +16,14 @@ This project is based on the following paper:
 - Task and domain adaptation-specific masking
 - Masked Token selection based on pseudo-likelihood.
 
+## LICENSE
+This software includes modifications made by usk-Kimura.
+
+Original repository: [TARTAN](https://github.com/ldery/TARTAN/tree/main)
+
+Modification date: 12/10/2024
+
+
 ## Installation and Usage
 
 1. Clone the repository:
@@ -39,10 +47,4 @@ This project is based on the following paper:
     bash run_meta_multiple.sh
     ```
 
-## LICENSE
-This software includes modifications made by usk-Kimura. 
-
-Original repository: [TARTAN](https://github.com/ldery/TARTAN/tree/main)
-
-Modification date: 12/10/2024
 
