@@ -6,7 +6,7 @@ New Masked Language Modeling for Auxiliary tasks
 `L3Masking` is a new mlm as auxiliary task for effective multi-task fine-tuning. 
 This project is based on the following paper:
 
-**Paper Title**: [L3Masking: Multi-task Fine-tuning for Language Models by Leveraging Lessons Learned from Vanilla Models](https://openreview.net/forum?id=XBlgA9S6sN#discussion)  
+**Paper Title**: [L3Masking: Multi-task Fine-tuning for Language Models by Leveraging Lessons Learned from Vanilla Models]([https://openreview.net/forum?id=XBlgA9S6sN#discussion](https://aclanthology.org/2024.customnlp4u-1.6/))  
 **Presented at**: [Customizable NLP Workshop @ EMNLP 2024](https://customnlp4u-24.github.io/)  
 **Workshop Date**: November 16, 2024  
 **Location**: [Hyatt Regency Miami Hotel, Miami, Florida](https://www.hyatt.com/hyatt-regency/en-US/miarm-hyatt-regency-miami?src=adm_sem_crp_chico_crp_ppc_NAM-UnitedStates-FL-Miami-HR-MIARM_google_Evergreen2022_e_hyatt%20regency%20miami&gad_source=1&gclid=CjwKCAjwmaO4BhAhEiwA5p4YL10TTpJ3DTZo0a_XzENdBLPyE-4bbi81RFDWYGmgaK0MH8RcPaV4nxoCyNYQAvD_BwE)
